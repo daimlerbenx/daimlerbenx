@@ -42,7 +42,3 @@
 <td><a href="https://scholar.google.com/citations?user=qE2FDYYAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="40"/></a></td>
 </tr>
 </table>
-
-<a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps" alt="pandas" width="40" height="40"/></a>
