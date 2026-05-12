@@ -23,8 +23,8 @@
 <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a></td>
-<td><a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=ps" alt="pandas" width="40" height="40"/></a></td>
-<td><a href="https://www.photoshop.com/en"><img src="https://skillicons.dev/icons?i=vscode" alt="photoshop" width="40" height="40"/></a></td>
+<td><a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps" alt="pandas" width="40" height="40"/></a></td>
+<td><a href="https://www.code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="photoshop" width="40" height="40"/></a></td>
 <td><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a></td>
 <td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a></td>
@@ -42,3 +42,5 @@
 <td><a href="https://scholar.google.com/citations?user=qE2FDYYAAAAJ&hl=en"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="40"/></a></td>
 </tr>
 </table>
+
+<td><a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps, vscode, xd" alt="pandas" width="40" height="40"/></a></td>
