@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm daimlerbenx</h1>
 
-<p align="center">
+<p align="left">
 </p>
 
 <h3 align="left">Research & Development</h3>
@@ -43,4 +43,4 @@
 </tr>
 </table>
 
-<td><a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps,vscode,xd" alt="pandas" width="40" height="40"/></a></td>
+<a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps,xd,vscode" alt="pandas" width="40" height="40"/></a>
