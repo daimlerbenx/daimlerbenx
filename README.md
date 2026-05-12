@@ -5,5 +5,6 @@
 
 <h3 align="left">Research & Development</h3>
 <p align="left">
-<a href="..."><img src="..." width="40"/></a><a href="..."><img src="..." width="40"/></a><a href="..."><img src="..." width="40"/></a>
+<a href="..." style="display:inline-block;margin:5px;"><img src="..." width="40"/></a>
+<a href="..." style="display:inline-block;margin:5px;"><img src="..." width="40"/></a>
 </p>
