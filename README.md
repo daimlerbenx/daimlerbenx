@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm daimlerbenx</h1>
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Research & Development</h3>
@@ -24,7 +24,7 @@
 <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a></td>
 <td><a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps" alt="pandas" width="40" height="40"/></a></td>
-<td><a href="https://https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="photoshop" width="40" height="40"/></a></td>
+<td><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="photoshop" width="40" height="40"/></a></td>
 <td><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a></td>
 <td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a></td>
